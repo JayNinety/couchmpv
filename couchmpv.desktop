@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=CouchMPV
+Comment=TV-friendly video player
+Exec=couchmpv
+Icon=couchmpv
+Terminal=false
+Categories=AudioVideo;Video;Player;
+StartupNotify=false
